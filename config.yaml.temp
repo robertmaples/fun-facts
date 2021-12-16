@@ -1,0 +1,4 @@
+access-token: YOUR_ACCESS_TOKEN
+group-id: 1234
+text-file-path: fun-facts.txt
+sleep-time: 60 # seconds
